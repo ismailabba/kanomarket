@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kanomarket/static/css/main.381a72dc.css",
+    "main.js": "/kanomarket/static/js/main.1276d542.js",
+    "index.html": "/kanomarket/index.html",
+    "main.381a72dc.css.map": "/kanomarket/static/css/main.381a72dc.css.map",
+    "main.1276d542.js.map": "/kanomarket/static/js/main.1276d542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.381a72dc.css",
+    "static/js/main.1276d542.js"
+  ]
+}

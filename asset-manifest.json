@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kanomarket/static/css/main.967be9aa.css",
-    "main.js": "/kanomarket/static/js/main.e4b44579.js",
+    "main.css": "/kanomarket/static/css/main.1e26ddd3.css",
+    "main.js": "/kanomarket/static/js/main.a06d5985.js",
     "index.html": "/kanomarket/index.html",
-    "main.967be9aa.css.map": "/kanomarket/static/css/main.967be9aa.css.map",
-    "main.e4b44579.js.map": "/kanomarket/static/js/main.e4b44579.js.map"
+    "main.1e26ddd3.css.map": "/kanomarket/static/css/main.1e26ddd3.css.map",
+    "main.a06d5985.js.map": "/kanomarket/static/js/main.a06d5985.js.map"
   },
   "entrypoints": [
-    "static/css/main.967be9aa.css",
-    "static/js/main.e4b44579.js"
+    "static/css/main.1e26ddd3.css",
+    "static/js/main.a06d5985.js"
   ]
 }
